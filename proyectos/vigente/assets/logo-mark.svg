@@ -1,0 +1,16 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Logo mark" clip-path="url(#clip0_0_8)">
+<rect id="Rectangle" width="24" height="24" fill="url(#paint0_linear_0_8)"/>
+<rect id="Rectangle_2" x="1.02" y="1.02" width="21.96" height="21.96" stroke-width="2.04" stroke="#E3FF3B"/>
+<path id="Vector" d="M-1.02 12.3917L6.55896 22.98L22.98 -1.02" stroke-width="2.04" stroke-miterlimit="8" stroke-linecap="square" stroke="#E3FF3B"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_8" x1="1.71429" y1="18.8571" x2="18.8571" y2="1.71429" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5B2FD1"/>
+<stop offset="1" stop-color="#3B1E78"/>
+</linearGradient>
+<clipPath id="clip0_0_8">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
