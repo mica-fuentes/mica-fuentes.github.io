@@ -6,6 +6,7 @@ Portfolio de Mica Fuentes, diseñadora UX/UI. Sitio estático: HTML, CSS y JavaS
 
 ```
 index.html          → todo el sitio (estilos y script incluidos)
+cv/index.html       → página de CV (micafuentes.com/cv), con @media print para el PDF
 img/                → portadas de los trabajos (.webp)
 proyectos/          → demos programadas que se abren desde el portfolio
   vigente/          → Vigente (web, mobile y reloj)
